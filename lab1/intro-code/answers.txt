@@ -1,0 +1,41 @@
+1
+(a)
+a processor (or CPU) is the main chip responsible for carrying out instructions
+a core is a single execution unit in the processor which executes its own set of instructions
+(b)
+each processor has 8 cores
+(c)
+16
+(d)
+3187.214 MHz
+(e)
+x86_64
+(h)
+16GB
+(I)
+2.5GB
+
+2
+(a)
+8896
+(b)
+100% CPU and 0% memory
+(c)
+it is in running state
+
+3
+(a)
+PID 367465
+(b)
+PID of the parent of 367465 : 367422
+PID of the parent of 367422 : 367400
+PID of the parent of 367400 : 365537
+PID of the parent of 365537 : 1
+(c)
+0 -> /dev/pts/1
+1 -> /tmp/tmp.txt
+2 -> /dev/pts/1
+(d) 
+0 -> /dev/pts/1
+1 -> pipe:[4200614]
+2 -> /dev/pts/1
